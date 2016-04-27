@@ -6,6 +6,11 @@ Use [Gulp](http://gulpjs.com/) to run [SuperTest](https://github.com/visionmedia
 ## You just need to  clone this repo,that's all.
 
 # Run
+* Install node_module
+
+```
+npm install
+```
 
 * With command `gulp master`,you can see the result:
 
